@@ -1,0 +1,11 @@
+.block{
+	width: 200px;
+	height: 200px;
+	background:orange;
+}
+
+.block_2{
+	width: 200px;
+	height: 200px;
+	background: green;
+}
